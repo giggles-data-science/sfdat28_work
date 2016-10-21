@@ -16,4 +16,4 @@ Determine the sentiment for a song. Help artists determine how their music makes
 
 Project 3:
 
-Predict starting salary levels, for individuals in tech, based on educational attainment level, gender, and previous work experience.
+Predict starting salary levels, for individuals in tech, based on educational attainment level, race, gender, and previous work experience.
