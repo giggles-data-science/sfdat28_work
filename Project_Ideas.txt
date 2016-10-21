@@ -1,0 +1,19 @@
+#Lauren Washington 3 Potential Projects
+
+Project 1:
+
+Scrape the web to detect the best books for statistics, data science, data visualization, web development, and game development.
+
+Use these books to populate the KNOB library and to recommend books to social media followers.
+
+Website: www.knob-technologies.com
+
+
+Project 2:
+
+Determine the sentiment for a song. Help artists determine how their music makes their fans feel to facilitate smooth mood transitions during live performances. Provide feedback on songs that aren't ranking highly on Spotify and YouTube.
+
+
+Project 3:
+
+Predict starting salary levels, for individuals in tech, based on educational attainment level, gender, and previous work experience.
