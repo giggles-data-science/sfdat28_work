@@ -1,2 +1,2 @@
-# sfdatt28_work
+# sfdat28_work
 Work for General Assembly Data Science course 
